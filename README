@@ -1,0 +1,7 @@
+Well, the first question arises as that why we even need Machine learning to predict forest fire in that particular area? So, yes the question is valid that despite having the experienced forest department who have been dealing with these issues for a long time why is there a need for ML, having said that answer is quite simple that the experienced forest department can check on 3-4 parameters from their human mind but ML on other hand can handle the numerous parameters whether it can be latitude, longitude, satellite, version, and whatnot, so dealing with this multi-relationship of a parameter that is responsible for the fire in the forest we do need ML for sure!
+
+THINGS TO DO:
+Importing necessary libraries
+-Exploratory data analysis
+-Data cleaning
+-Model development (RandomForestRegressor)
